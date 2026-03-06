@@ -1,7 +1,7 @@
 # Site settings
 title: Alex Abraham - Resume
-url: 'https://email2alx.github.io'
-baseurl: '/resume' # Change this to your repository name
+url: 'https://itsalexabraham.github.io'
+baseurl: '/profile' # Change this to your repository name
 description: Professional resume of Alex Abraham - Software Engineer II
 
 # Build settings
