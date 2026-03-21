@@ -4,6 +4,9 @@ url: 'https://iamalexabm.github.io'
 baseurl: '/profile' # Change this to your repository name
 description: Professional resume of Alex Abraham - Software Engineer II
 
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: blue # blue turquoise green berry orange ceramic teal oceanstale
+
 # Build settings
 markdown: kramdown
 
